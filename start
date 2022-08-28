@@ -1,0 +1,118 @@
+[33mcommit c0cd9273d933ff9994055caf685da4f4a2df6377[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: IMHOTEP <boua.mbo@uvci.edu.ci>
+Date:   Wed Jun 2 11:50:25 2021 +0100
+
+    IGONRER LE DOSSIER PUBLIC
+
+[33mcommit fc7a4cbbd558b6fbc7fce9eff559948dd2136b8a[m
+Merge: 6d3d6d7 d94389c
+Author: IMHOTEP <boua.mbo@uvci.edu.ci>
+Date:   Wed Jun 2 10:30:59 2021 +0100
+
+    Merge remote-tracking branch 'refs/remotes/origin/main' into main
+
+[33mcommit 6d3d6d7fa140c285468eb1768c9cc5c9f8b13c2b[m
+Author: IMHOTEP <boua.mbo@uvci.edu.ci>
+Date:   Wed Jun 2 10:30:55 2021 +0100
+
+    MODIF MAIL
+
+[33mcommit d94389cba6e94fe6bed67515a8e89c490691ebea[m
+Author: unknown <MAATTECHNOLOGIE>
+Date:   Wed Jun 2 09:28:43 2021 +0200
+
+    Changement dynamique des options
+
+[33mcommit e0954425337b5c982d291d162bf9e5c3fac8b446[m
+Author: IMHOTEP <boua.mbo@uvci.edu.ci>
+Date:   Tue Jun 1 17:34:31 2021 +0100
+
+    PRESENTATION PLATEFORME
+
+[33mcommit 0d7c148e48ed606c67436a8f8bf7591889f4a30a[m
+Merge: 31660fa e095442
+Author: unknown <MAATTECHNOLOGIE>
+Date:   Tue Jun 1 16:41:01 2021 +0200
+
+    FIN FUSION PRESENTATION
+
+[33mcommit 31660fa392526880596c5ffeeb91d4d6d3ea73f1[m
+Author: unknown <MAATTECHNOLOGIE>
+Date:   Tue Jun 1 16:38:11 2021 +0200
+
+    singleProduct
+
+[33mcommit dba41a9f2212ae448cc2e38ab981406dfe73bcbc[m
+Author: IMHOTEP <boua.mbo@uvci.edu.ci>
+Date:   Tue Jun 1 14:58:43 2021 +0100
+
+    MISE A JOUR OK
+
+[33mcommit b4b10e128f824c1f3ce0229a0199425b7bb40094[m
+Author: IMHOTEP <boua.mbo@uvci.edu.ci>
+Date:   Tue Jun 1 12:44:25 2021 +0100
+
+    methode des attributs
+
+[33mcommit f60fb4c83506311da81a17aeadd5c5e70b5cfed4[m
+Merge: 75bc117 7dfc058
+Author: IMHOTEP <boua.mbo@uvci.edu.ci>
+Date:   Tue Jun 1 11:45:13 2021 +0100
+
+    Merge remote-tracking branch 'refs/remotes/origin/main' into main
+
+[33mcommit 7dfc0580fed2ea9b9faeefe98994ee2f02aa0f43[m
+Author: unknown <MAATTECHNOLOGIE>
+Date:   Tue Jun 1 10:31:20 2021 +0200
+
+    Changement dynamique des attributs
+
+[33mcommit 75bc1173cd7b28419d908e0946251b63c4465cee[m
+Merge: b2bd99b 76df67e
+Author: IMHOTEP <boua.mbo@uvci.edu.ci>
+Date:   Mon May 31 18:23:41 2021 +0100
+
+    RECUP
+
+[33mcommit b2bd99b3059c4419279e3514db1ea1f3e830d1ba[m
+Author: IMHOTEP <boua.mbo@uvci.edu.ci>
+Date:   Mon May 31 18:04:54 2021 +0100
+
+    VERIFICATION IMAGE
+
+[33mcommit 76df67ec25a4505e6cf6dade14c31d10bddae742[m
+Author: unknown <MAATTECHNOLOGIE>
+Date:   Mon May 31 16:59:15 2021 +0200
+
+    Integration de couleur
+
+[33mcommit 777e0027f3e2e8b36df875efc78cd2718afe76bc[m
+Author: IMHOTEP <boua.mbo@uvci.edu.ci>
+Date:   Mon May 31 15:49:41 2021 +0100
+
+    INTEGRATION DES OPTIONS
+
+[33mcommit 2044919979858c353b0ca7540bfa6487c961f954[m
+Merge: 368c695 777e002
+Author: unknown <MAATTECHNOLOGIE>
+Date:   Mon May 31 15:44:09 2021 +0200
+
+    intégration des couleurs
+
+[33mcommit 368c695eed18323b22ac9e77b5eb8a438b0515dd[m
+Author: unknown <MAATTECHNOLOGIE>
+Date:   Mon May 31 15:35:28 2021 +0200
+
+    intégration des couleurs
+
+[33mcommit 8ae22b6d92b80508b66b9cd1abc8aaaf5d95476a[m
+Author: IMHOTEP <boua.mbo@uvci.edu.ci>
+Date:   Thu May 27 11:56:35 2021 +0100
+
+    FIRST MODIF AFTER CONNECTED TO GIT
+
+[33mcommit d74b06057a4613efc6536d499a2f5e866a426568[m
+Author: IMHOTEP <boua.mbo@uvci.edu.ci>
+Date:   Thu May 27 11:24:58 2021 +0100
+
+    FIRST COMMIT
